@@ -5,22 +5,22 @@ Este projeto foi desenvolvido como trabalho final de disciplina de Sistemas Emba
 Este projeto foi feito em simulador online, para facilitar a reprodução.
 
 Foram utilizados para este projeto:
-
-2 Arduino Uno
-3 potenciômetros de 10k
-1 motor servo
-1 motor de vibração
-2 motores de CC
-1 sensor de temperatura
-1 sensor de distância
-1 ponte LM35
-1 fotorresistor
-2 Relés DPDT
-2 botões
-3 baterias de 9V
-2 resistores de 1KΩ
-1 resistor de 330Ω
-
+<ul>
+<li>2 Arduino Uno</li>
+<li>3 potenciômetros de 10k</li>
+<li>1 motor servo</li>
+<li>1 motor de vibração</li>
+<li>2 motores de CC</li>
+<li>1 sensor de temperatura</li>
+<li>1 sensor de distância</li>
+<li>1 ponte LM35</li>
+<li>1 fotorresistor</li>
+<li>2 Relés DPDT</li>
+<li>2 botões</li>
+<li>3 baterias de 9V</li>
+<li>2 resistores de 1KΩ</li>
+<li>1 resistor de 330Ω</li>
+</ul>
 
 Dentro do projeto há uma imagem contendo o desenho físico do projeto.
 
