@@ -22,6 +22,8 @@ Foram utilizados para este projeto:
 <li>1 resistor de 330Ω</li>
 </ul>
 
-Dentro do projeto há uma imagem contendo o desenho físico do projeto.
+Uma dica de montagem pode ser vista abaixo
+
+<img src="https://github.com/KalleoLeandro/Aquario-Inteligente/blob/master/imagem_aquario.png">
 
 Criado por Kalleo "Kazehana" Leandro dos Santos Leal e Leonardo Oliveira
