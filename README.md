@@ -24,6 +24,6 @@ Foram utilizados para este projeto:
 
 Uma dica de montagem pode ser vista abaixo
 
-<img src="https://github.com/KalleoLeandro/Aquario-Inteligente/blob/master/imagem_aquario.png">
+<img src="https://github.com/KalleoLeandro/Aquario-Inteligente/blob/master/imagem_aquario.png?raw=true">
 
 Criado por Kalleo "Kazehana" Leandro dos Santos Leal e Leonardo Oliveira
