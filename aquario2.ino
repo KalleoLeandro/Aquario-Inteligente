@@ -31,12 +31,8 @@ void loop()
     {
       temperatura = Serial.readStringUntil('C');
       valor = temperatura.toInt();
-      if(valor<10 && valor >=0)
-      {
-        temperatura ="0";
-        temperatura+=valor;
-        Serial.println("TEMP"+temperatura);
-      }
+     temperatura=valor;
+     Serial.println("TEMP"+temperatura);     
     }
     if(comando=="L")
     {
@@ -63,8 +59,10 @@ void loop()
       op=Serial.readStringUntil(';');
       Serial.println("OPERANDO"+op);
     }
-    lcd.setCursor(5,0);
-    lcd.print(temperatura);      
+    lcd.setCursor(0,0);
+    lcd.print("TEMP:   C");
+    lcd.setCursor(0,0);
+    lcd.print("TEMP:   "+temperatura);    
     lcd.setCursor(13,0);
     lcd.print(luz);
     lcd.setCursor(9,1);
