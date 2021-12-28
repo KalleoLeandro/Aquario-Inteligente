@@ -109,7 +109,8 @@ void loop()
   else
   {
     luz="ON ";
-    /*if(tempoatual-(86400000*dia) >= 64800000 || tempoatual - (86400000*dia) <= 21600000)    
+    /*if(tempoatual-(86400000*dia) >= 64800000 || tempoatual - (86400000*dia) <= 21600000)
+    Esse comentário está no código para controlar a luz via horário do dia(sendo possível ajustar no código um intervalo das 20:00 as 06:00 por exemplo)
     {*/   
     	aluz=map(analogRead(autoluz),0,1023,0,255);    
   		bluz=map(analogRead(pot),0,1023,0,100);    
